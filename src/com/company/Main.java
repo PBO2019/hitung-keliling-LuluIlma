@@ -15,5 +15,8 @@ class lingkaran{
     public void hitungLuas(){
         System.out.print( 0.5*pi*radius*radius);
     }
+
+    public void hitungLingkaran() {
+    }
 }
 
