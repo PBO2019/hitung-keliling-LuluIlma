@@ -15,8 +15,8 @@ public class Lingkaran {
 
     }
 
-    public int getRadius(){
-        return radius;
+    public double getRadius(){
+        return hitungLuas;
     }
 }
 
